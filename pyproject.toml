@@ -4,4 +4,9 @@ version = "0.1.0"
 description = "It's a simple project in order to analyse the chat of whatsapp group"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.0",
+    "pandas>=2.2.3",
+    "seaborn>=0.13.2",
+]
