@@ -1,0 +1,7 @@
+[project]
+name = "Whasapp-Chat-Analyzer"
+version = "0.1.0"
+description = "It's a simple project in order to analyse the chat of whatsapp group"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
