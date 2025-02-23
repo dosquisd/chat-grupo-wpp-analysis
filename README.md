@@ -16,6 +16,7 @@ No tengo un lugar claro para dejar las ideas del proyecto, por lo que, pienso qu
 * Media de mensajes por día/mes (general, como por cada miembro).
 * Relacionado a los mensajes, se está hablando de manera general, pero podría ser interesante, ver quiénes mandan más audios/videos/stickers y así también.
 * Ahora, relacionado con análisis de sentimiento, se puede analizar la tonalidad de los mensajes, e inclusive, audios y stickers (vídeos no, porque no tienen audio), aunque me tocaría investigar bastante respecto a este último.
+* Palabras por mensaje. Y, con respecto a las palabras, se pueden sacar métricas descriptivas en base a las palabras, y no solo con mensajes.
 
 Eso es todo hasta el momento, tengo la esperanza de que el muro de ideas vaya creciendo cada vez más, pero esa es la versión inicial
 
