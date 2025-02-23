@@ -26,4 +26,4 @@ Antes de seguir con la estructura, debo decir que el proyecto utiliza uv como ma
 
 Ahora, todavía no se tiene nada claramente estructurado, solamente tengo claro que lo que se utilizará es Jupyter Notebook para hace todo el análisis. Los archivos tendrán la siguiente nomenclatura: `num_description.ipynb`, el `num` sería un número que indica el orden de creación de los archivos, junto a una pequeña descripción `description` para decir qué se hace a grandes rasgos. Así, pienso que se organizaría todo correctamente.
 
-Seguramente, durante el proceso, sea necesario guardar archivos, por lo que, se utilizará la carpeta [data/analysis](./data/analysis/) para guardar los archivos necesarios (ver [aquí](./data/analysis/README.md)).
+Seguramente, durante el proceso, sea necesario guardar archivos, por lo que, se utilizará la carpeta [data/analysis](./data/analysis/) para guardar los archivos necesarios (ver [aquí](./data/README.md)).
