@@ -1,0 +1,12 @@
+{
+    "*.mp3": "./audios/files",
+    "*.opus": {
+        "AUD-*": "./audios/forwarded",
+        "PTT-*": "./audios/sent"
+    },
+    "*.vcf": "./contacts",
+    "*.webp": "./images/stickers",
+    "*.jpg": "./images/sent",
+    "*.mp4": "./videos",
+    "WhatsApp Chat with *": "./"
+}

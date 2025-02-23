@@ -1,0 +1,23 @@
+# Whatsapp data
+
+# Audios
+whatsapp/audios/**/AUD-*
+whatsapp/audios/**/PTT-*
+whatsapp/audios/**/*.mp3
+
+# Contactos
+whatsapp/contacts/*.vcf
+
+# Extra
+whatsapp/extra/*
+!whatsapp/extra/.gitkeep
+
+# Images
+whatsapp/images/**/IMG-*
+whatsapp/images/**/STK-*
+
+# Videos
+whatsapp/videos/**/VID-*
+
+# Chat historial
+whatsapp/WhatsApp Chat with Los q m├бs lloran.txt
