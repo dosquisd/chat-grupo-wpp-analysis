@@ -1,14 +1,14 @@
 PARTICIPANTS = ["JuanD", "Mariana", "Hombre Religioso", "Alana", "Negron"]
 
-KEYPHRASES = [
-    "(file attached)",  # Stickers, imagenes, videos, audios, etc
-    "<This message was edited>", # Mensajes editados
-    "This message was deleted",  # Mensajes eliminados
-    "null",  # Mensajes de una vez
-    "live location shared"  # Ubicaciones en tiempo real
-    "POLL:"  # Encuestas
-    "OPTION:", # Opciones de encuestas
-    "@13135550002",  # Invocaciones a Meta AI (bot de WhatsApp)
-]
+KEYPHRASES = {
+    "file": "(file attached)",
+    "edit": "<This message was edited>",
+    "delete": "This message was deleted",
+    "view_once": "null",
+    "location": "live location shared",
+    "poll": "POLL:",
+    "option": "OPTION:",
+    "meta": "@13135550002"
+}
 
 DATE_FORMAT = r"%m/%d/%y, %I:%M %p"
